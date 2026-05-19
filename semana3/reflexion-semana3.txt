@@ -1,0 +1,11 @@
+Mantener un registro de cambios usando herramientas como Git es fundamental 
+en cualquier proyecto de software porque permite rastrear la evolución del código de 
+manera organizada y transparente. Primero, facilita la colaboración entre desarrolladores, 
+ya que cada persona puede trabajar en diferentes funcionalidades sin interferir con el trabajo 
+de los demás. Segundo, proporciona un historial completo de modificaciones, lo que ayuda a 
+identificar cuándo y por qué se introdujo un error, permitiendo revertir cambios problemáticos 
+de forma rápida. Tercero, actúa como un sistema de respaldo que protege el proyecto contra pérdidas 
+accidentales de información. Además, el uso de Git fomenta buenas prácticas de desarrollo, como 
+documentar cambios con mensajes claros y estructurar el trabajo en ramas independientes. En 
+proyectos grandes o en equipos distribuidos, esta herramienta se convierte en indispensable para 
+mantener la calidad, la coherencia y la continuidad del desarrollo a lo largo del tiempo.
