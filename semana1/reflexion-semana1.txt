@@ -1,0 +1,18 @@
+El uso responsable de la información en internet, la participación ciudadana y la 
+organización del trabajo técnico con herramientas como Git están estrechamente relacionados 
+en la era digital actual. 
+
+Primero, cuando verificamos la información antes de compartirla, estamos ejerciendo 
+una ciudadanía digital activa y ética, evitando la propagación de noticias falsas que 
+producen daño social. 
+
+Segundo, la participación ciudadana se fortalece cuando los individuos informados pueden
+expresar argumentos sólidos y contrastados, lo que lleva a una deliberación pública más 
+constructiva y a la toma de decisiones informadas. 
+
+Tercero, herramientas como Git, al facilitar el trabajo colaborativo, transparente y 
+trazable, reflejan estos mismos principios de responsabilidad y verificación, permitiendo
+que múltiples personas construyan proyectos de forma organizada y verificable.
+
+En conjunto, estos elementos contribuyen a una cultura digital basada en la 
+responsabilidad, la colaboración y el compromiso con la verdad. 
